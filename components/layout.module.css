@@ -120,3 +120,14 @@
     flex-direction: column;
   }
 }
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.headerImage {
+  width: 16rem;
+  height: 16rem;
+}
